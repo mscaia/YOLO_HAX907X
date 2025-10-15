@@ -50,3 +50,6 @@ git clone git@github.com:mscaia/YOLO_HAX907X.git
 ```bash
 pip install ultralytics pandas matplotlib
 ```
+
+3. Installer les modlèes pré-entrainer et mettres ces .pt dans la racine du dossier cloné.
+   https://drive.google.com/drive/folders/1hQL5Eh8tg5GN6j7H86pmzdCJ9eebZ1eo?dmr=1&ec=wgc-drive-hero-goto
